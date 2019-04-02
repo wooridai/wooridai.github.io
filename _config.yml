@@ -16,7 +16,7 @@
 title: 이용단의 기술 블로그
 email: wooridai@hanmail.net
 description: >- # this means to ignore newlines until "baseurl:"
-        백만년째 준비중!!!
+        개인 저장용 공간입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
