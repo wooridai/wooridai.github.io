@@ -1,4 +1,0 @@
----
-name: jenkins
-title: 'Jenkins'
----
